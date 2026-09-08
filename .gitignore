@@ -6,6 +6,7 @@ artifacts/
 screenshots/
 attachments/
 dist/
+dist-pages/
 .output/
 *.log
 .env

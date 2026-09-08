@@ -2,6 +2,8 @@
 
 **Better behavior. Lower risk. Smarter coverage.**
 
+**Live demo:** [https://arminkhodadad-startup.github.io/vitality-cover-ai/](https://arminkhodadad-startup.github.io/vitality-cover-ai/)
+
 Wellness-risk, rewards, and coverage intelligence MVP for high-performance professionals. Simulated pricing only — not an insurance quote, medical diagnosis, or regulated underwriting decision.
 
 ## What it is
